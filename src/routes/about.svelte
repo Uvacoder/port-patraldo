@@ -8,16 +8,12 @@
                 }
 
                 p {
-                        font-family: 'Ultra', sans-serif;
-                        color: purple;
+                        font-family: 'Special Elite', sans-serif;
                 }
 
-                body {
-                        background-color: #af875f;
-                }
 </style>
 
 
-<h1>¡Hola! Bienvenid@ a mi galería en linea</h1>
-<p>Mi nombre es Antonio Grimaldo Rojas.  Nací en Coahuila, México.  Hace algunos años, obtuve la ciudadanía Canadiense cuando vivía en Montréal, Québec. Por eso la página se llama antoine.  Por lo de patraldo, es otra historía.</p> 
+<h1 class="text-5xl font-bold">¡Hola! Bienvenid@ a mi galería en linea</h1>
+<p class="text-3xl">Dibujar es un placer. Me permite descubrir lo que tengo escondido en mi imaginación. Me gusta expresarme de esta manera.</p> 
 
