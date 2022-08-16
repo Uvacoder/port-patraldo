@@ -10,24 +10,11 @@
                         font-family: 'Special Elite', cursive;
                 }
 
-                p {
-                        font-family: 'Special Elite', sans-serif;
-                }
 
 * {
   box-sizing: border-box;
 }
 
-body { 
-  background: var(--color-surface-900); 
-  margin: 0;
-  font-family: Arial;
-}
-
-.header {
-  text-align: center;
-  padding: 32px;
-}
 
 .row {
   display: -ms-flexbox; /* IE10 */

@@ -1,6 +1,5 @@
 const config = {
   content: [
-        './node_modules/@brainandbones/skeleton/**/*.{html,js,svelte,ts}',
 	  "./src/**/*.{html,js,svelte,ts}"
   ],
 
@@ -9,7 +8,6 @@ const config = {
   },
 
   plugins: [
-	          require('@brainandbones/skeleton/tailwind.cjs')
 
   ],
 };
